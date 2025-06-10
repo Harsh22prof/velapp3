@@ -11,7 +11,7 @@ stages{
 stage("stage one"){
 
 steps{
-echo"hello"
+echo"hello from 2024Q2"
 }
 
 }
